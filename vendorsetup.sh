@@ -1,0 +1,2 @@
+add_lunch_combo cm_mt6582-eng
+add_lunch_combo cm_mt6582-userdebug
